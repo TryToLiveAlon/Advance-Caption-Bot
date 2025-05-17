@@ -42,8 +42,8 @@ Eg:- `/set_cap
     ABOUT_TXT = """<b>╔════❰ ᴀᴜᴛᴏ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : <a href='https://t.me/DeathAutoCaptionRobot'>Auto Caption</a>
-║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/deathkingworld'>Dᴇᴀᴛʜ Dᴇᴠᴇʟᴏᴘᴇʀ ⚠️</a>
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/+dB5c0JyYL7pmNDVl'>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>
+║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/+dB5c0JyYL7pmNDVl'>Dᴇᴀᴛʜ Dᴇᴠᴇʟᴏᴘᴇʀ ⚠️</a>
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/deathkingworld'>ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ</a>
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ 2.11.6
